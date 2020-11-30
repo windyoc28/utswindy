@@ -1,0 +1,67 @@
+
+.login-page{
+	display: flex;
+	justify-content: space-between;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+}
+
+.login-box{
+	width: 50%;
+	height: 100%;
+	display: block;
+}
+.login-box .img-box{
+	width: 100%;
+	height: 100%;
+	display: block;
+	position: relative;
+}
+.login-content{
+	margin-left: 120px;
+	margin-top: 100px;
+	background: #6C63FF;
+	padding: 20px;
+	width: 400px;
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+.login-title{
+	display: block;
+	text-align: center;
+	font-size: 22px;
+	color: #FFF;
+	padding: 20px 0;
+}
+.span-divider{
+	display: block;
+	text-align: center;
+	font-size: 14px;
+	color: #FFF;
+}
+.span-divider a{
+	margin-left: 10px;
+	color: #FFA927;
+	font-weight: bold;
+}
+
+.card-artikel{
+	height: 100vh;
+	padding: 20px;
+	text-align: center;
+
+}
+.card-artikel .beranda-title{
+	display: block;
+	padding-top: 35%;
+
+}
+.artikel-blog{
+	overflow-x: hidden;
+}
+.img-beranda{
+	width: 100%;
+	height: 90vh;
+}
